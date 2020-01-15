@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64c72767-c100-41bb-85a3-c6be3e75c2b7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WR8Cg8zt0RU9ieOcccfnQiKprE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/org.eclipse.paho.client.mqttv3-1.2.2.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64c72767-c100-41bb-85a3-c6be3e75c2b7" name="Default Changelist" comment="" />
+      <created>1579100920595</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579100920595</updated>
+      <workItem from="1579100925060" duration="6215000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1032" y="182" key="#Project_Structure" timestamp="1579101028262">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1032" y="182" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1579101028262" />
+    <state x="1245" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1579106472522">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1245" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1579106472522" />
+    <state x="1074" y="264" key="FileChooserDialogImpl" timestamp="1579101949931">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1074" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579101949931" />
+    <state x="880" y="98" key="SettingsEditor" timestamp="1579101953024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="880" y="98" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579101953024" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1579106316131">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1579106316131" />
+  </component>
+</project>
